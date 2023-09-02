@@ -7,15 +7,15 @@ const config: GatsbyConfig = {
   siteMetadata: {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
-    // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emma-core/gatsby-config.mjs
-    siteTitle: `Emma`,
-    siteTitleAlt: `Emma - Gatsby Starter Portfolio`,
-    siteHeadline: `Emma - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://emma.lekoarts.de`,
+    // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-NIKHIL SONI-core/gatsby-config.mjs
+    siteTitle: `NIKHIL SONI`,
+    siteTitleAlt: `NIKHIL SONI`,
+    siteHeadline: `NIKHIL SONI`,
+    siteUrl: `https://nikhilsoni.ca`,
     siteDescription: `Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    author: `@nikhilsoni`,
   },
   trailingSlash: `always`,
   plugins: [
@@ -33,8 +33,8 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Emma - @lekoarts/gatsby-theme-emma`,
-        short_name: `Emma`,
+        name: `NIKHIL SONI`,
+        short_name: `NIKHIL SONI`,
         description: `Minimalistic bright portfolio with full-width grid and large images`,
         start_url: `/`,
         background_color: `#fff`,
